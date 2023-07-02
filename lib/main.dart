@@ -1,4 +1,3 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
@@ -56,7 +55,7 @@ class _MyHomePageState extends State<MyHomePage> {
               onPressed: () {
                 _getChargingStatus();
               },
-              icon: const Icon(CupertinoIcons.sparkles),
+              icon: const Icon(Icons.battery_std),
               label: const Text('Get Battery Level'),
             )
           ],

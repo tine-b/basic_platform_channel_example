@@ -1,6 +1,6 @@
 {
-    "name": "basic_platform_channel_proj",
-    "short_name": "basic_platform_channel_proj",
+    "name": "basic_platform_channel",
+    "short_name": "basic_platform_channel",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

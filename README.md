@@ -1,3 +1,3 @@
-# basic_platform_channel_proj
+# basic_platform_channel
 
 A new Flutter project.
